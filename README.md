@@ -1,6 +1,6 @@
 # Jaewift 👋
 
-![Jaewift's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaewift&show_icons=true&theme=radical)
+![Jaewift's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaewift&show_icons=true&theme=swift)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaewift)](https://solved.ac/jaewift/)
 
