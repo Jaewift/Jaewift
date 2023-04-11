@@ -1,14 +1,16 @@
 # Jaewift 👋
 
-### 💻  Tech Stack
+#### 💻  *Tech Stack*
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
+<br/>
 
-### ⚠️  GitHub Stats
+#### ⚠️  *GitHub Stats*
 ![Jaewift's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaewift&show_icons=true&theme=swift)
+<br/>
 
-### 🏆  Baekjoon Tier
+#### 🏆  *Baekjoon Tier*
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaewift)](https://solved.ac/jaewift/)
-
+<br/>
 <!--
 **Jaewift/Jaewift** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
