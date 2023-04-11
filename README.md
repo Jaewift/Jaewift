@@ -1,8 +1,12 @@
 # Jaewift 👋
+
+### 💻  Tech Stack
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
 
+### ⚠️  GitHub Stats
 ![Jaewift's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaewift&show_icons=true&theme=swift)
 
+### 🏆  Baekjoon Tier
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaewift)](https://solved.ac/jaewift/)
 
 <!--
