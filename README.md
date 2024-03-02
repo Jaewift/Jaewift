@@ -1,13 +1,10 @@
 # Jaewift 👋
 
 ### 💻  *Tech Stack*
-<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
-<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"> <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 <br/>
 
 ### 📚 *Careers* 
-2023.08 ~ : 중고나라 결제서비스개발팀 백엔드 개발자                  
-2017.03 ~ 2024.02 : Kwangwoon University, Dept of Computer Information Engineering
 #
                              
 ### More ➕
