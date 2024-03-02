@@ -5,12 +5,12 @@
 <br/>
 
 ### 📚 *Careers* 
-#
+<br/>
                              
 ### More ➕
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:pjk971113@gmail.com)
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://velog.io/@jeagyu/posts)
-#
+<br/>
 
 ### 🏆  *Baekjoon Tier*
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaewift)](https://solved.ac/jaewift/)
