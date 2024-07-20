@@ -3,9 +3,6 @@
 ### 💻  *Tech Stack*
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"> <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 <br/>
-
-### 📚 *Careers* 
-<br/>
                              
 ### More ➕
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:pjk971113@gmail.com)
