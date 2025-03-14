@@ -28,7 +28,7 @@
 
   <br>
   
-  ## 🏆  *Baekjoon Tier*
+  ## Baekjoon Tier
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaewift)](https://solved.ac/jaewift/)
   
