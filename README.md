@@ -20,7 +20,7 @@
 
    ## Projects
 
-  🎀 리본: 폐기 상품 나눔 서비스 [Repository](https://github.com/umc-reborn/Reborn_Front) 
+  🎀 리본: 폐기 상품 나눔 서비스 [Repository](https://github.com/umc-reborn/Reborn-iOS) 
 
   🎓 석박지: 대학원 정보 커뮤니티 [Repository](https://github.com/SukBakJi/SukBakJi-iOS)
 
