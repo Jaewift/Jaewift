@@ -14,7 +14,7 @@
   
   ## PERSONAL ARCHIVE
   
-  📖 [What Did I Learn ...](https://velog.io/@jeagyu/posts)
+  📖 [What Did I Learn ...](https://github.com/Jaewift/TIL)
   
   <br>
 
