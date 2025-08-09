@@ -26,6 +26,8 @@
 
   🎧 PLUV: 나의 음악 취향 공유 서비스 [Repository](https://github.com/Central-MakeUs/PLUV-iOS)
 
+  🔤 렛어스픽: AI기반 영어 학습 서비스 [Repository](https://github.com/letusGo-Hack/25_05_letuspeak_aitutor)
+
   <br>
   
   ## Baekjoon Tier
