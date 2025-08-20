@@ -40,4 +40,12 @@
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=Jaewift&theme=chalk&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jaewift&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Jaewift"
+  width="600"
+  height="300"
+/>
+</a>
+
 </div>
