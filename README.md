@@ -20,13 +20,13 @@
 
    ## Projects
 
-  🎀 리본: 폐기 상품 나눔 서비스 [Repository](https://github.com/umc-reborn/Reborn-iOS) 
+   #### 🔤 [렛어스픽: AI기반 영어 학습 서비스](https://github.com/letusGo-Hack/25_05_letuspeak_aitutor) (2025/03 ~ 2025/03)
 
-  🎓 석박지: 대학원 정보 커뮤니티 [Repository](https://github.com/SukBakJi/SukBakJi-iOS)
+   #### 🎧 [PLUV: 나의 음악 취향 공유 서비스](https://github.com/Central-MakeUs/PLUV-iOS) (2024/09 ~ 2025/02) - [서비스 이용해보기](https://apps.apple.com/kr/app/pluv/id6645736556?l=en-GB)
 
-  🎧 PLUV: 나의 음악 취향 공유 서비스 [Repository](https://github.com/Central-MakeUs/PLUV-iOS)
+   #### 🎓 [석박지: 대학원 정보 커뮤니티](https://github.com/SukBakJi/SukBakJi-iOS) (2024/07 ~ 2025/04) - [서비스 이용해보기](https://apps.apple.com/kr/app/%EC%84%9D%EB%B0%95%EC%A7%80/id6743091235)
 
-  🔤 렛어스픽: AI기반 영어 학습 서비스 [Repository](https://github.com/letusGo-Hack/25_05_letuspeak_aitutor)
+   #### 🎀 [리본: 폐기 상품 나눔 서비스](https://github.com/umc-reborn/Reborn-iOS) (2023/01 ~ 2023/02)
 
   <br>
   
