@@ -6,7 +6,7 @@
 
   <br>
   
-  ## Tech Stack
+  ## TECH STACK
   ![Apple](https://img.shields.io/badge/iOS-000000?style=flat&logo=Apple&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flate&logo=Swift&logoColor=white) ![UIKit
   ](https://img.shields.io/badge/UIkit-2396F3?style=flat&logo=UIKit&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flate&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flate&logo=dart&logoColor=white)
   
@@ -18,7 +18,7 @@
   
   <br>
 
-   ## Projects
+   ## PROJECTS
 
    #### 🔤 [렛어스픽: AI기반 영어 학습 서비스](https://github.com/letusGo-Hack/25_05_letuspeak_aitutor) (2025/03 ~ 2025/03)
 
@@ -30,15 +30,13 @@
 
   <br>
   
-  ## Baekjoon Tier
+  ## BAEJOON TIER
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaewift)](https://solved.ac/jaewift/)
   
   <br>
 
-  ## STATUS
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Jaewift&theme=chalk&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+  <br>
 
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jaewift&utm_content=farm">
 <img
