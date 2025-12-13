@@ -8,7 +8,7 @@
   
   ## TECH STACK
   ![Apple](https://img.shields.io/badge/iOS-000000?style=flat&logo=Apple&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flate&logo=Swift&logoColor=white) ![UIKit
-  ](https://img.shields.io/badge/UIkit-2396F3?style=flat&logo=UIKit&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flate&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flate&logo=dart&logoColor=white)
+  ](https://img.shields.io/badge/UIkit-2396F3?style=flat&logo=UIKit&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-524520?logo=swift) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flate&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flate&logo=dart&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
   
   <br>
   
