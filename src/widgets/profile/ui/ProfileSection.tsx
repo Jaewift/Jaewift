@@ -55,14 +55,6 @@ const ProfileSection = ({
       </div>
       <div className="w-full flex flex-col lg:flex-row items-start justify-center gap-8 sm:gap-12 md:gap-16 lg:gap-24 xl:gap-32 lg:pr-16 xl:pr-24">
         <div className="flex-1 flex flex-col gap-8 sm:gap-10 md:gap-12 lg:gap-14 xl:gap-16 w-full">
-          <div className="py-10 sm:py-30 md:py-40 lg:py-50 xl:py-60 text-center text-primary">
-            <h3 className="text-2xl sm:text-3xl md:text-4xl xl:text-5xl font-semibold mb-4 sm:mb-5 md:mb-6 lg:mb-7 xl:mb-8 tracking-widest font-playpen neon-sign">
-              Live a life you will rememeber.
-            </h3>
-            <p className="text-sm sm:text-base text-text/50">
-              — Lyrics from &ldquo;The Nights&rdquo; by Avicii —
-            </p>
-          </div>
           <LicenseList licenses={licenses} />
           <AwardList awards={awards} />
         </div>
