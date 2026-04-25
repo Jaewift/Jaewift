@@ -7,9 +7,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "cf:build": "opennextjs-cloudflare build --skipWranglerConfigCheck",
-    "cf:preview": "opennextjs-cloudflare build --skipWranglerConfigCheck && wrangler dev",
-    "cf:deploy": "opennextjs-cloudflare build --skipWranglerConfigCheck && opennextjs-cloudflare deploy"
+    "cf:build": "opennextjs-cloudflare build",
+    "cf:preview": "opennextjs-cloudflare build && wrangler dev",
+    "cf:deploy": "opennextjs-cloudflare build && opennextjs-cloudflare deploy"
   },
   "dependencies": {
     "@cher1shrxd/loading": "^1.0.3",
