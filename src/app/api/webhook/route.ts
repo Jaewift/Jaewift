@@ -4,6 +4,7 @@ import {
 } from "@/shared/types/notion-webhook-event";
 import { revalidatePath } from "next/cache";
 import { NextResponse } from "next/server";
+import { SITE_URL } from "@/shared/config/site-url";
 
 export async function POST(reg: Request) {
   const body = (await reg.json()) as NotionWebhookEvent | NotionWebhookVerify;
@@ -26,7 +27,7 @@ export async function POST(reg: Request) {
 
   try {
     revalidatePath("/");
-    fetch("https://www.cher1shrxd.me")
+    fetch(SITE_URL)
       .then(() => console.log("Main Page warmed"))
       .catch((error) => console.error("Main page warming failed:", error));
     switch (receivedId) {
@@ -57,12 +58,12 @@ async function handleProjectWebhook(body: NotionWebhookEvent) {
 
   try {
     await Promise.all([
-      fetch("https://www.cher1shrxd.me/projects")
+      fetch(`${SITE_URL}/projects`)
         .then(() => console.log("Projects list warmed"))
         .catch((error) =>
           console.error("Projects list warming failed:", error),
         ),
-      fetch(`https://www.cher1shrxd.me/projects/${pageId}`)
+      fetch(`${SITE_URL}/projects/${pageId}`)
         .then(() => console.log(`Project ${pageId} warmed`))
         .catch((error) =>
           console.error(`Project ${pageId} warming failed:`, error),

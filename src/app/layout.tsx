@@ -7,9 +7,10 @@ import Footer from "@/widgets/footer/ui/Footer";
 import LenisProvider from "@/shared/providers/LenisProvider";
 import Script from "next/script";
 import InitScrollProvider from "@/shared/providers/InitScrollProvider";
+import { SITE_URL } from "@/shared/config/site-url";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://cher1shrxd.me"),
+  metadataBase: new URL(SITE_URL),
   title: "jaekyu's Portfolio",
   description:
     "다음 사람이 망설이지 않는 코드를 쓰는 개발자, 김태우입니다. 프론트엔드 개발자로서 사용자 경험과 코드 품질을 중요하게 생각합니다.",
@@ -26,7 +27,7 @@ export const metadata: Metadata = {
     "Frontend Developer",
     "Web Developer",
   ],
-  authors: [{ name: "박재규", url: "https://cher1shrxd.me" }],
+  authors: [{ name: "박재규", url: SITE_URL }],
   creator: "jaekyu",
   publisher: "jaekyu",
   formatDetection: {
@@ -37,7 +38,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "ko_KR",
-    url: "https://cher1shrxd.me",
+    url: SITE_URL,
     siteName: "jaekyu's Portfolio",
     title: "jaekyu's Portfolio",
     description: "기술적인 문제를 해결하고 사용자 경험을 개선하는 과정에서 성취감을 느끼며 성장하는 프론트엔드 개발자, 박재규입니다.",

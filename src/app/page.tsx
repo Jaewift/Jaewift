@@ -14,16 +14,17 @@ import OverviewSection from "@/widgets/overview/ui/OverviewSection";
 import HomeContent from "@/widgets/overview/ui/HomeContent";
 import Script from "next/script";
 import { Metadata } from "next";
+import { SITE_URL } from "@/shared/config/site-url";
 
 export const revalidate = 31536000;
 
 export const metadata: Metadata = {
   openGraph: {
     type: "website",
-    url: "https://cher1shrxd.me",
+    url: SITE_URL,
   },
   alternates: {
-    canonical: "https://cher1shrxd.me",
+    canonical: SITE_URL,
   },
 };
 
@@ -49,7 +50,7 @@ export default async function HomePage() {
     "@type": "Person",
     name: "박재규",
     alternateName: "jaekyu",
-    url: "https://cher1shrxd.me",
+    url: SITE_URL,
     email: personalInfo.email,
     telephone: personalInfo.phone,
     jobTitle: "Frontend Developer",

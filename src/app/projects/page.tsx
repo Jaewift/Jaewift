@@ -2,6 +2,7 @@ import { ProjectApi } from "@/entities/project/api";
 import Reveal from "@/shared/ui/Reveal";
 import ProjectsGrid from "@/widgets/projects/ui/ProjectsGrid";
 import { Metadata } from "next";
+import { SITE_URL } from "@/shared/config/site-url";
 
 export const revalidate = 31536000;
 
@@ -12,7 +13,7 @@ export const metadata: Metadata = {
     title: "jaekyu's Projects",
     description: "진행했던 프로젝트들을 확인하세요",
     type: "website",
-    url: "https://cher1shrxd.me/projects",
+    url: `${SITE_URL}/projects`,
   },
   twitter: {
     card: "summary_large_image",

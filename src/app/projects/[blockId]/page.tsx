@@ -6,6 +6,7 @@ import TableOfContents from "@/widgets/article/ui/TableOfContents";
 import ArticleNavigation from "@/widgets/article/ui/ArticleNavigation";
 import { Metadata } from "next";
 import Script from "next/script";
+import { SITE_URL } from "@/shared/config/site-url";
 
 export const revalidate = 31536000;
 
@@ -42,13 +43,13 @@ export async function generateMetadata({
     title: `${title} | jaekyu`,
     description,
     alternates: {
-      canonical: `https://cher1shrxd.me/projects/${blockId}`,
+      canonical: `${SITE_URL}/projects/${blockId}`,
     },
     openGraph: {
       title: `${title} | jaekyu`,
       description,
       type: "article",
-      url: `https://cher1shrxd.me/projects/${blockId}`,
+      url: `${SITE_URL}/projects/${blockId}`,
       images: thumbnail ? [{ url: thumbnail }] : [],
     },
     twitter: {
@@ -146,9 +147,9 @@ export default async function ArticlePage({
     author: {
       "@type": "Person",
       name: "박재규",
-      url: "https://cher1shrxd.me",
+      url: SITE_URL,
     },
-    url: `https://cher1shrxd.me/projects/${blockId}`,
+    url: `${SITE_URL}/projects/${blockId}`,
   };
 
   return (
