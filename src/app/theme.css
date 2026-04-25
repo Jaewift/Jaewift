@@ -1,0 +1,26 @@
+:root {
+  --theme-color-primary: #7B2CBF;
+  --theme-color-background: #F9F9F9;
+  --theme-color-text: #121212;
+  --theme-color-border: #EBEBEB;
+  --theme-color-surface: #FFFFFF; 
+  --theme-color-overlay: #00000040;
+}
+
+html[data-theme='dark'] {
+  --theme-color-primary: #7B2CBF;
+  --theme-color-background: #1b1b1b;
+  --theme-color-text: #FCFCFC;
+  --theme-color-border: #303030;
+  --theme-color-surface: #282828; 
+  --theme-color-overlay: #00000040;
+}
+
+@theme {
+  --color-primary: var(--theme-color-primary);
+  --color-background: var(--theme-color-background);
+  --color-text: var(--theme-color-text);
+  --color-border: var(--theme-color-border);
+  --color-surface: var(--theme-color-surface); 
+  --color-overlay: var(--theme-color-overlay);
+}

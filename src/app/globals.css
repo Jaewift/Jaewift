@@ -1,0 +1,61 @@
+@import "tailwindcss";
+@import "./theme.css";
+@import "./font.css";
+
+* {
+  font-family: "Pretendard", sans-serif;
+  user-select: none;
+  word-break: keep-all;
+  outline: none;
+}
+
+.font-playpen {
+  font-family: "PlaypenSans", sans-serif;
+}
+
+.font-mulmaru {
+  font-family: "Mulmaru", sans-serif;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.animation-delay-300 {
+  animation-delay: 300ms;
+}
+
+.animation-delay-500 {
+  animation-delay: 500ms;
+}
+
+
+@keyframes neonFlicker {
+  0%, 18%, 22%, 25%, 53%, 57%, 100% {
+    opacity: 1;
+  }
+  18.5%, 21.5%, 54% {
+    opacity: 0.3;
+  }
+  19%, 56% {
+    opacity: 1;
+  }
+  20%, 55% {
+    opacity: 0.5;
+  }
+}
+
+.neon-sign {
+  text-shadow: 
+    0 0 10px var(--theme-color-primary),
+    0 0 20px var(--theme-color-primary),
+    0 0 40px var(--theme-color-primary),
+    0 0 80px var(--theme-color-primary);
+  animation: neonFlicker 5s linear infinite;
+  will-change: opacity;
+}

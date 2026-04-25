@@ -1,0 +1,126 @@
+@font-face {
+  font-family: "Pretendard";
+  font-weight: 100;
+  font-display: swap;
+  src: url("../shared/fonts/pretendard/Pretendard-Thin.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Pretendard";
+  font-weight: 200;
+  font-display: swap;
+  src: url("../shared/fonts/pretendard/Pretendard-ExtraLight.woff")
+    format("woff");
+}
+
+@font-face {
+  font-family: "Pretendard";
+  font-weight: 300;
+  font-display: swap;
+  src: url("../shared/fonts/pretendard/Pretendard-Light.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Pretendard";
+  font-weight: 400;
+  font-display: swap;
+  src: url("../shared/fonts/pretendard/Pretendard-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Pretendard";
+  font-weight: 500;
+  font-display: swap;
+  src: url("../shared/fonts/pretendard/Pretendard-Medium.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Pretendard";
+  font-weight: 600;
+  font-display: swap;
+  src: url("../shared/fonts/pretendard/Pretendard-SemiBold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Pretendard";
+  font-weight: 700;
+  font-display: swap;
+  src: url("../shared/fonts/pretendard/Pretendard-Bold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Pretendard";
+  font-weight: 800;
+  font-display: swap;
+  src: url("../shared/fonts/pretendard/Pretendard-ExtraBold.woff")
+    format("woff");
+}
+
+@font-face {
+  font-family: "Pretendard";
+  font-weight: 900;
+  font-display: swap;
+  src: url("../shared/fonts/pretendard/Pretendard-Black.woff") format("woff");
+}
+
+@font-face {
+  font-family: "PlaypenSans";
+  font-weight: 100;
+  font-display: swap;
+  src: url("../shared/fonts/playpen/PlaypenSans-Thin.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "PlaypenSans";
+  font-weight: 200;
+  font-display: swap;
+  src: url("../shared/fonts/playpen/PlaypenSans-ExtraLight.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "PlaypenSans";
+  font-weight: 300;
+  font-display: swap;
+  src: url("../shared/fonts/playpen/PlaypenSans-Light.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "PlaypenSans";
+  font-weight: 400;
+  font-display: swap;
+  src: url("../shared/fonts/playpen/PlaypenSans-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "PlaypenSans";
+  font-weight: 500;
+  font-display: swap;
+  src: url("../shared/fonts/playpen/PlaypenSans-Medium.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "PlaypenSans";
+  font-weight: 600;
+  font-display: swap;
+  src: url("../shared/fonts/playpen/PlaypenSans-SemiBold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "PlaypenSans";
+  font-weight: 700;
+  font-display: swap;
+  src: url("../shared/fonts/playpen/PlaypenSans-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "PlaypenSans";
+  font-weight: 800;
+  font-display: swap;
+  src: url("../shared/fonts/playpen/PlaypenSans-ExtraBold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Mulmaru";
+  font-display: swap;
+  src: url("../shared/fonts/mulmaru/Mulmaru.woff2") format("woff2");
+}
