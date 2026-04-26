@@ -67,7 +67,7 @@ const Footer = () => {
             </Link>
           </div>
           <p className="text-xs sm:text-sm md:text-sm text-text/50 text-center">
-            © {new Date().getFullYear()} jeagu. All rights reserved.
+            © {new Date().getFullYear()} jaewift. All rights reserved.
           </p>
         </div>
       </div>

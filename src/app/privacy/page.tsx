@@ -2,11 +2,11 @@ import Reveal from "@/shared/ui/Reveal";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "개인정보처리방침 | jeagu",
-  description: "jeagu 포트폴리오의 개인정보처리방침",
+  title: "개인정보처리방침 | jeawift",
+  description: "jeawift 포트폴리오의 개인정보처리방침",
   openGraph: {
-    title: "개인정보처리방침 | jeagu",
-    description: "jeagu 포트폴리오의 개인정보처리방침",
+    title: "개인정보처리방침 | jeawift",
+    description: "jeawift 포트폴리오의 개인정보처리방침",
     type: "website",
     url: "https://jeagu.me/privacy",
   },

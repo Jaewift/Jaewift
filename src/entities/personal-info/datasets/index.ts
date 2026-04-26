@@ -1,6 +1,6 @@
 export const MY_INFORMATION = {
   name: "박재규",
-  nickname: "jeagu",
+  nickname: "jeawift",
   email: "pjk971113@gmail.com",
   birthday: "1997-11-13",
   address: "서울특별시 송파구 잠실동",
